@@ -25,12 +25,14 @@ nav .logo:hover{
 nav ul {
     display: flex;
     list-style: none;
+    justify-content: center;
+    align-items: center;
 
 
 }
 
 nav ul li {
-    margin-top: 1.6rem;
+    /* margin-top: 1.6rem; */
 }
 
 nav ul li a {
